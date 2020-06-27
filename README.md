@@ -10,13 +10,13 @@ Berisi dokumentasi.
 
 ### Dasar-Dasar dan pembahasan
 
-<!-- 1. [Pengenalan Java](https://github.com/FatkhanZakia/materi/blob/master/bahasa_pemrograman/java/01-pengertian-java.md) -->
-<!-- 2. [Memasukan Javascript ke Halaman Web](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/02-memasukan-javascript-ke-halaman-web.md)
-2. [Struktur Dasar](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/03-struktur-dasar.md)
-3. [Variabel](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/04-variabel.md)
-4. [Tipe Data](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/05-tipe-data.md)
-5. [Konversi Tipe Data](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/06-konversi-tipe-data.md)
-6. [Operator](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md)
+1. [Creat a new repository](https://github.com/FatkhanZakia/source-s_docs/blob/master/01-Creat-a-new-repository.md)
+
+2. [MySql](https://github.com/FatkhanZakia/source-s_docs/blob/master/02-MySql.md)
+<!-- 3. [Variabel](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/04-variabel.md)
+3. [Tipe Data](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/05-tipe-data.md)
+4. [Konversi Tipe Data](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/06-konversi-tipe-data.md)
+5. [Operator](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md)
 
    a. [Aritmatika](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md#aritmatika)
 
@@ -26,13 +26,13 @@ Berisi dokumentasi.
 
    d. [Assignment](https://github.com/tamankodekode/materi/blob/master/bahasa_pemrograman/javascript/07-operator.md#assignment)
 
-7. Percabangan (Decision)
+6. Percabangan (Decision)
 
    a. If-Else
 
    b. Switch-Case
 
-8. Perulangan (Looping)
+7. Perulangan (Looping)
 
    a. For
 
@@ -40,8 +40,8 @@ Berisi dokumentasi.
 
    c. Do-While
 
-9. Fungsi (Function)
+8. Fungsi (Function)
 
    a. Standard Function
 
-   b. Arrow Function -->
+   <!-- b. Arrow Function -->
