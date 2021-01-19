@@ -4,7 +4,7 @@
 
 # Source's docs
 
-<!-- Berisi dokumentasi Fatkhan Zakiabn cbvcbvc -->
+Berisi dokumentasi Fatkhan Zakia
 
 ## Daftar Isi
 
